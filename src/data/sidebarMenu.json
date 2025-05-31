@@ -32,13 +32,13 @@
   {
     "id": 6,
     "title": "Redux basics.",
-    "status": true,
-    "link": "./"
+    "status": false,
+    "link": "https://goit-neo-react-hw-module6-beta-lovat.vercel.app/"
   },
   {
     "id": 7,
     "title": "Asynch. Redux, memoization.",
-    "status": false,
+    "status": true,
     "link": "./"
   }
 ]
