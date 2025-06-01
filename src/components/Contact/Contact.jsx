@@ -6,7 +6,7 @@ import ButtonIcon from '../ButtonIcon/ButtonIcon';
 import { RxCross1 } from 'react-icons/rx';
 import { BsArrowClockwise } from 'react-icons/bs';
 import { useDispatch } from 'react-redux';
-import { deleteContact } from '../../redux/contactsSlice';
+import { deleteContact } from '../../redux/contactsOps';
 import { toast } from 'react-toastify';
 
 export default function Contact({ id, name, number, avatar }) {
